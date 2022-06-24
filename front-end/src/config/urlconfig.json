@@ -1,0 +1,4 @@
+{
+  "GET_ALL_USERS_TWEET_API_URL": "https://tweetappbe.azurewebsites.net/api/v1.0/tweets/all",
+  "BASE_URL": "https://tweetappbe.azurewebsites.net/api/v1.0/tweets/"
+}
